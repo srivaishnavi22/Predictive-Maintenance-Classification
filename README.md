@@ -7,6 +7,7 @@ This project focuses on **Predictive Maintenance** using machine learning techni
 ## 📊 Dataset Information
 
 - **Source:** Available on **Kaggle**, originally provided by the **UCI Machine Learning Repository**.
+- https://www.kaggle.com/datasets/stephanmatzka/predictive-maintenance-dataset-ai4i-2020?resource=download
 - **Instances:** 10,000 records
 - **Features:** 14 operational parameters including:
   - **Air Temperature [K]**
